@@ -1,10 +1,21 @@
-body{font-family: Cambria;}
-#header1 {text-align: center;}
-/*#header1 {font-family: Cambria;}*/
-#header1 {color: rgb(255, 82, 82); }
+body{font-family: Cambria;
+    border-style: double;
+    outline-style: solid;
+    outline-width: medium;
+    outline-color: rgb(69, 116, 255); 
+}
+#header1 {
+    text-align: center;
+    color: rgb(69, 116, 255);
+}
 
 p {
     margin: 25px;
     text-align: center;
-    
+    font-size: 20px;
+}
+
+h2{
+    text-align: center;
+    color: rgb(69, 116, 255);
 }
