@@ -1,6 +1,7 @@
 body{font-family: Verdana;
+    border-style: double;
     outline-style: solid;
-    outline-width: thick;
+    outline-width: medium;
     outline-color: rgb(69, 116, 255); 
 }
 #header1 {
